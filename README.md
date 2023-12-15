@@ -1,5 +1,4 @@
 # 😈MINT
-## 🍎iOS DEVELOPER
 
 <!---
 mint3382/mint3382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
