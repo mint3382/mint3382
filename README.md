@@ -13,8 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
   
-### Record
-[Trouble Shooting Log](https://mintraum.tistory.com/)
+### 📝Record📝
+[❤️Trouble Shooting Log](https://mintraum.tistory.com/)
+<br>
+[💙Study Log](https://velog.io/@mintsong/posts)
  
  
 </div>
@@ -26,8 +28,9 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   
 ### 📔Education📔
-###### 🐻Yagom Academy Code Starter 7th
-###### 🐻Yagom Academy Career Starter 9th
+ 🐻Yagom Academy Code Starter 7th
+ <br>
+ 🐻Yagom Academy Career Starter 9th
  <br>
 
 ### 👩‍💻Tech Stack👩‍💻
