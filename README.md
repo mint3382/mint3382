@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   
 ### 📝Record📝
-[❤️Trouble Shooting Log](https://mintraum.tistory.com/)
+[❤️Trouble Shooting Log](https://mintraum.tistory.com/) 티스토리
 <br>
-[💙Study Log](https://velog.io/@mintsong/posts)
+[💙Study Log](https://velog.io/@mintsong/posts) 벨로그
  
  
 </div>
