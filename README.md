@@ -9,25 +9,25 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mint3382&show_icons=true&theme=dracula&hide="/>
-
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mint3382&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="http://mazassumnida.wtf/api/generate_badge?boj=tama1221"/></a>
 
 <div align="left">
+
+### 😈Introduce😈
+Hi, I'm MINT!
+<br>
+**iOS Developer** but also interest in Unity.
+<br>
+I love making my imagenation a reality.
+
   
 ### 📝Record📝
 [❤️Trouble Shooting Log](https://mintraum.tistory.com/)
 <br>
 [💙Study Log](https://velog.io/@mintsong/posts)
- 
- 
-</div>
- 
 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mint3382&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-<img align="right" width="50%" src="http://mazassumnida.wtf/api/generate_badge?boj=tama1221"/></a>
- 
-<div align="left">
-  
 ### 📔Education📔
  🐻Yagom Academy Code Starter 7th
  <br>
@@ -36,6 +36,12 @@ You can click the Preview link to take a look at your changes.
 
 ### 👩‍💻Tech Stack👩‍💻
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ 
+ 
+</div>
+
+ 
+<div align="left">
  
  
 </div>
