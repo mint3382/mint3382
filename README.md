@@ -29,8 +29,6 @@ Unity도 관심 있어서 공부중 (●'ᴗ'●)ﾉ♥
   
 ### 📝Record📝
 [❤️Trouble Shooting Log](https://mintraum.tistory.com/)
-<br>
-[💙Study Log](https://velog.io/@mintsong/posts)
 
 
 ### 📔Education📔
