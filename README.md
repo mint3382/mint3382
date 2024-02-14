@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mint3382&show_icons=true&theme=gotham&hide="/>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mint3382&theme=gotham&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-<img align="right" width="50%" src="http://mazassumnida.wtf/api/generate_badge?boj=tama1221"/></a>
+<img align="right" width="50%" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tama1221"/></a>
 
-<div align="left" width="50%">
+<div align="left" width="60%">
 
 ### 😈Introduce😈
 안녕하세요, **iOS 개발자** 민트입니다!
