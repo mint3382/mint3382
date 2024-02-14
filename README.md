@@ -1,4 +1,5 @@
-# 😈MINT
+
+<img src="https://cdn.discordapp.com/attachments/1100024437434236988/1207384737015136346/minticon_copy.png?ex=65df73a9&is=65ccfea9&hm=318f310fb1fb29ade715611205868153c704e1362eeccf96abe599a27ca41370&">
 
 <!---
 mint3382/mint3382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mint3382&show_icons=true&theme=dracula&hide="/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mint3382&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mint3382&show_icons=true&theme=gotham&hide="/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mint3382&theme=gotham&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 <img align="right" width="50%" src="http://mazassumnida.wtf/api/generate_badge?boj=tama1221"/></a>
 
 <div align="left" width="50%">
