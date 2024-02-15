@@ -1,4 +1,4 @@
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmint3382&count_bg=%236F9EF8&title_bg=%23000000&icon=smugmug.svg&icon_color=%236F9EF8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://cdn.discordapp.com/attachments/1100024437434236988/1207384737015136346/minticon_copy.png?ex=65df73a9&is=65ccfea9&hm=318f310fb1fb29ade715611205868153c704e1362eeccf96abe599a27ca41370&">
 
 <!---
