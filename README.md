@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 🎆 상상을 현실로 만드는 것을 좋아합니다.
 <br>
-😆 타인의 삶에 긍정적인 영향을 주는 것에 행복을 느낍니다.
+😆 세상에 긍정적인 영향을 주는 것에 행복을 느낍니다.
 <br>
 ⏳ 끈기와 성실함은 제 성장의 원동력입니다.
 <br>
