@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 ⏳ 끈기와 성실함은 제 성장의 원동력입니다.
 <br>
-🍎 이유 있고 가독성 좋은 코드를 작성하기 위해 노력합니다.
+🍎 이유 있고 가독성 좋은 코드를 작성하려 노력합니다.
 <br>
 ❓ 상냥한 질문들로 부드러운 협업을 합니다.
 
