@@ -30,7 +30,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 ❓ 상냥한 질문들로 부드러운 협업을 합니다.
 
-
+### 🔥Activity🔥
+🐻 야곰 아카데미 서포터즈 (23.10 ~ 24.05)
+<br>
+📕 IT 동아리 Prography (24.02 ~ )
   
 ### 📝Record📝
 [❤️Trouble Shooting Log](https://mintraum.tistory.com/)
