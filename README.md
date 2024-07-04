@@ -24,16 +24,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 😆 세상에 긍정적인 영향을 주는 것에 행복을 느낍니다.
 <br>
-⏳ 끈기와 성실함은 제 성장의 원동력입니다.
+⏳ 꾸준함과 성실함은 제 성장의 원동력입니다.
 <br>
-🍎 이유 있고 가독성 좋은 코드를 작성하려 노력합니다.
+🍎 가독성과 범용성이 어우러진 코드를 작성하려 노력합니다.
 <br>
-❓ 상냥한 질문들로 부드러운 협업을 합니다.
-
-### 🔥Activity🔥
-🐻 야곰 아카데미 서포터즈 (23.10 ~ 24.05)
-<br>
-📕 IT 동아리 Prography (24.02 ~ )
+❓ 상냥한 질문들로 부드러운 협업을 이어갑니다.
   
 ### 📝Record📝
 [❤️Trouble Shooting Log](https://mintraum.tistory.com/)
@@ -46,6 +41,11 @@ You can click the Preview link to take a look at your changes.
  <br>
  🐻야곰 아카데미 커리어 스타터 9기
  <br>
+
+### 🔥Activity🔥
+🐻 야곰 아카데미 서포터즈 (23.10 ~ 24.05)
+<br>
+📕 IT 연합 동아리 Prography 9기 (24.03 ~ )
 
 ### 👩‍💻Tech Stack👩‍💻
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
