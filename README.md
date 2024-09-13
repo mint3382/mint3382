@@ -15,20 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left" width="60%">
 
-### 😈Introduce😈
-안녕하세요, **iOS 개발자** 민트입니다!
-<br>
-🎮 Unity도 관심 있어서 공부중 (●'ᴗ'●)ﾉ♥
-<br>
-🎆 상상을 현실로 만드는 것을 좋아합니다.
-<br>
-😆 세상에 긍정적인 영향을 주는 것에 행복을 느낍니다.
-<br>
-⏳ 꾸준함과 성실함은 제 성장의 원동력입니다.
-<br>
-🍎 가독성과 범용성이 어우러진 코드를 작성하려 노력합니다.
-<br>
-❓ 상냥한 질문들로 부드러운 협업을 이어갑니다.
+### ☘️ 세상에 긍정적인 영향을 주고 싶은 iOS 개발자
+    성실함과 호기심을 원동력으로 발전합니다.
+    가독성과 범용성이 어우러진 코드를 작성하려 노력합니다.
+    상냥한 질문들로 부드러운 협업을 이어가겠습니다.
   
 ### 📝Record📝
 [❤️Trouble Shooting Log](https://mintraum.tistory.com/)
