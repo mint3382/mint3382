@@ -25,13 +25,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 📔Education📔
-     🎓경상국립대학교 생명과학부 졸업
-     🐻야곰 아카데미 코드 스타터 7기
      🐻야곰 아카데미 커리어 스타터 9기
+     🐻야곰 아카데미 코드 스타터 7기
+     🎓경상국립대학교 생명과학부 졸업
 
 ### 🔥Activity🔥
-    🐻 야곰 아카데미 서포터즈 (23.10 ~ 24.05)
     📕 IT 연합 동아리 Prography 9기 (24.03 ~ 24.10)
+    🐻 야곰 아카데미 서포터즈 (23.10 ~ 24.05)
 
 ### 🍎App Deploy🍎
 - [방탈출 프로필 만들기, roome (24.03 ~ 24.09)](https://github.com/Prography-RoomE/roome_ios)
