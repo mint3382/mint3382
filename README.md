@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmint3382&count_bg=%236F9EF8&title_bg=%23000000&icon=smugmug.svg&icon_color=%236F9EF8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://cdn.discordapp.com/attachments/1100024437434236988/1207384737015136346/minticon_copy.png?ex=65df73a9&is=65ccfea9&hm=318f310fb1fb29ade715611205868153c704e1362eeccf96abe599a27ca41370&">
 
+## ☘️ 세상에 긍정적인 영향을 주고 싶은 iOS 개발자
 <!---
 mint3382/mint3382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left" width="60%">
 
-### ☘️ 세상에 긍정적인 영향을 주고 싶은 iOS 개발자
     유연함과 호기심을 원동력으로 발전합니다.
     가독성과 범용성이 어우러진 코드를 작성하려 노력합니다.
     상냥한 질문들로 부드러운 협업을 이어가겠습니다.
