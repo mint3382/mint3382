@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
      🎓경상국립대학교 생명과학부 졸업
 
 ### 🔥Activity🔥
-    📕 IT 연합 동아리 Prography 10기 운영진 (25.01 - ing)
+    
     ☀️ 오늘의 스터디 참여 및 운영 (24.10 - ing)
     📕 IT 연합 동아리 Prography 9기 (24.03 - 24.10)
     🐻 야곰 아카데미 서포터즈 (23.10 - 24.05)
