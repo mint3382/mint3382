@@ -14,13 +14,15 @@ You can click the Preview link to take a look at your changes.
 <img align="right" width="50%" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tama1221"/></a>
 
 <div align="left" width="60%">
-
-    유연함과 호기심을 원동력으로 발전합니다.
+    
+    사용자 경험을 중요시 합니다.
+    유연함과 호기심을 원동력으로 발전합니다.
     가독성과 범용성이 어우러진 코드를 작성하려 노력합니다.
     상냥한 질문들로 부드러운 협업을 이어가겠습니다.
   
 ### 📝Record📝
 - [Trouble Shooting Log](https://mintraum.tistory.com/)
+- [Linked In](https://www.linkedin.com/in/mintraum/)
 
 
 ### 📔Education📔
@@ -29,8 +31,10 @@ You can click the Preview link to take a look at your changes.
      🎓경상국립대학교 생명과학부 졸업
 
 ### 🔥Activity🔥
-    📕 IT 연합 동아리 Prography 9기 (24.03 ~ 24.10)
-    🐻 야곰 아카데미 서포터즈 (23.10 ~ 24.05)
+    📕 IT 연합 동아리 Prography 10기 운영진 (25.01 - ing)
+    ☀️ 오늘의 스터디 참여 및 운영 (24.10 - ing)
+    📕 IT 연합 동아리 Prography 9기 (24.03 - 24.10)
+    🐻 야곰 아카데미 서포터즈 (23.10 - 24.05)
 
 ### 🍎App Deploy🍎
 - [방탈출 프로필 만들기, roome (24.03 ~ 24.09)](https://apps.apple.com/kr/app/roome/id6503616766)
