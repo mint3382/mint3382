@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmint3382&count_bg=%236F9EF8&title_bg=%23000000&icon=smugmug.svg&icon_color=%236F9EF8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-## ☘️ 세상에 긍정적인 영향을 주고 싶은 iOS 개발자
+# ☘️ 세상에 긍정적인 영향을 주고 싶은 iOS 개발자
 <!---
 mint3382/mint3382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -46,4 +48,7 @@ You can click the Preview link to take a look at your changes.
  
  
 </div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mint3382&theme=gotham&bg_color=20232a&hide_border=false&line=20d3ba&color=2d7574" width=90%/>
+  </a>
 
