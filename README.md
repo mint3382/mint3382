@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔥Activity🔥
     📕 IT 연합 동아리 Prography 10기 iOS 매니저 (25.02 - ing)
     ☀️ 오늘의 스터디 참여 및 운영 (24.10 - ing)
-    📕 IT 연합 동아리 Prography 9기 (24.03 - 24.10)
+    📕 IT 연합 동아리 Prography 9기 iOS 파트원 (24.03 - 24.10)
     🐻 야곰 아카데미 서포터즈 (23.10 - 24.05)
 
 ### 🍎App Deploy🍎
