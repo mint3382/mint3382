@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
      🎓경상국립대학교 생명과학부 졸업
 
 ### 🔥Activity🔥
-    ☀️ 오늘의 스터디 참여 및 운영 (24.10 - ing)
+    ☀️ 오늘의 스터디 참여, 운영 (24.10 - ing)
     📕 IT 연합 동아리 Prography 
         - 10기 iOS 매니저 (25.02 - ing)
         - 9기 iOS 파트원 (24.03 - 24.10)
