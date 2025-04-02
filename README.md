@@ -35,7 +35,9 @@ You can click the Preview link to take a look at your changes.
     🐻 야곰 아카데미 서포터즈 (23.10 - 24.05)
 
 ### 🍎App Deploy🍎
-- [방탈출 프로필 만들기, roome (24.03 ~ 24.09)](https://apps.apple.com/kr/app/roome/id6503616766)
+    🚪 방탈출 프로필 만들기, roome (24.03 - 24.09)
+        - 24.12 서비스 종료
+    
 
 ### 📝Record📝
 - [Trouble Shooting Log](https://mintraum.tistory.com/)
