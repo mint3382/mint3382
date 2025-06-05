@@ -35,7 +35,8 @@ You can click the Preview link to take a look at your changes.
 ### 🍎App Deploy🍎
     🚪 방탈출 프로필 만들기, roome (24.03 - 24.09)
         - 24.12 서비스 종료
-    👻 투표일기 서비스, echog (24.12 - ing)
+    👻 투표일기 서비스, echog (24.12 - 25.05)
+        - 25.06 서비스 종료
     💬 매일 3가지 담화 글쓰기 서비스, 세담 (25.05 - ing)
     
 
