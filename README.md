@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
  
  
 </div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mint3382&theme=gotham&bg_color=20232a&hide_border=false&line=20d3ba&color=2d7574" width=90%/>
-  </a>
+  </a> -->
 
