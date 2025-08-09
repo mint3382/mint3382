@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
     👻 투표일기 서비스, echog (24.12 - 25.05)
         - 25.06 서비스 종료
     💬 매일 3가지 담화 글쓰기 서비스, 세담 (25.05 - ing)
+    📸 캡처캣 - 스크린샷 정리 서비스 (25.08 - ing)
     
 
 ### 📝Record📝
