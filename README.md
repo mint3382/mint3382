@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
     My judgment isn't a claim — it's a track record.
   
 ### 📔Work Experience📔
-     🐙 KrakenHouse Mobile Developer (25.06 - ing)
+     🐙 KrakenHouse Product Builder (26.03 - ing)
+     ☺️ HappyDevSmile Mobile Developer (25.06 - 26.02)
 
 ### 🔥Activity🔥
     📕 IT Community Prography
