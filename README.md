@@ -20,20 +20,16 @@ You can click the Preview link to take a look at your changes.
     So I capture the thinking behind every call.
     Messy goals become decisions a whole team gets behind.
     My judgment isn't a claim — it's a track record.
-    write the prediction first, score it later
   
-### 📔Education📔
-     🐻야곰 아카데미 커리어 스타터 9기
-     🐻야곰 아카데미 코드 스타터 7기
-     🎓경상국립대학교 생명과학부 졸업
+### 📔Work Experience📔
+     🐙 KrakenHouse Mobile Developer (25.06 - ing)
 
 ### 🔥Activity🔥
-    ☀️ 오늘의 스터디 참여, 운영 (24.10 - 25.12)
-    📕 IT 연합 동아리 Prography
+    📕 IT Community Prography
         - 11기 대외협력 파트장 (25.10 - 26.04)
         - 10기 iOS 매니저 (25.02 - 25.10)
         - 9기 iOS 파트원 (24.03 - 24.10)
-    🐻 야곰 아카데미 서포터즈 (23.10 - 24.05)
+    🐻 Yagom Academy Supporters (23.10 - 24.05)
 
 ### 🍎App Deploy🍎
     🚪 방탈출 프로필 만들기, roome (24.03 - 24.09)
